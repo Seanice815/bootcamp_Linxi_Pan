@@ -3,9 +3,9 @@ This repository is for NYU Bootcamp 5040.
 # Bootcamp Repository
 
 ## Folder Structure
-- **homework/** → All homework contributions will be submitted here.
-- **project/** → All project contributions will be submitted here.
-- **class_materials/** → Local storage for class materials. Never pushed to GitHub.
+- **data/** → 
+- **notebooks/** → 
+- **src/** → 
 
 ## Homework Folder Rules
 - Each homework will be in its own subfolder (`homework0`, `homework1`, etc.)
