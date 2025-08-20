@@ -7,3 +7,26 @@ __pycache__/
 
 # Ignore environment files
 .env
+*.env
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore virtual environment folders
+venv/
+.env/
+.venv/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
